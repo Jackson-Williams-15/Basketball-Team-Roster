@@ -1,6 +1,6 @@
 # Basketball Team Roster
 This a roster of some of the most famous basketball players with their statistics, injurey status, and their positions. 
-## How to run in Visual Code
+## How to run a COBOL program in Visual Studio Code
 - Clone the repository to your machine
 -  Install WSL and Ubuntu Distribution
     - Follow this [documentation](https://learn.microsoft.com/en-us/windows/wsl/install) for installing WSL on windows
